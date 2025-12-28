@@ -1,0 +1,7 @@
+{
+  "name": "Pro-Rugby ID Creator Ver4",
+  "description": "A professional, athletic, and user-friendly application to design and generate high-fidelity pro-rugby player ID cards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
